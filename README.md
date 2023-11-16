@@ -1,4 +1,4 @@
-A repo for submitting my Enterprise Application Development course.
-ID: UGR/043/13
-Name: Yonatan Haile Demisse
-Section: 1
+ A repo for submitting my Enterprise Application Development course.
+* Name: Yonatan Haile Demisse
+* ID: UGR/043/13
+* Section: 1
